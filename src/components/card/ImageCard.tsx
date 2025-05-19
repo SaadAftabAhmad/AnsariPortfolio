@@ -1,9 +1,5 @@
 import React from "react";
 
-import Image from "next/image";
-
-import manImg from "../../png/man-img.jpeg";
-
 type props = {
   title?: string;
   description?: string;

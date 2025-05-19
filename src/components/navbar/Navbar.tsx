@@ -14,25 +14,25 @@ const Navbar = ({ sidebarOpenClick, homeClick, aboutClick, servicesClick, experi
   return (
     <>
       <div className="fixed top-5 max-[600px]:top-3 z-[100] w-full px-[200px] max-[1200px]:px-[130px] max-[1050px]:px-[50px] max-[450px]:px-[20px]">
-        <div className="flex justify-between items-center w-full bg-[#754ef9]/70 py-6 max-[750px]:py-4 px-8 max-[450px]:px-5 rounded-full max-[450px]:rounded-[30px]">
+        <div className="flex justify-between items-center w-full bg-[#754ef9] py-6 max-[750px]:py-4 px-8 max-[450px]:px-5 rounded-full max-[450px]:rounded-[30px]">
           <p className="text-[#ffffff] font-[500] text-[14px]">MUHAMMAD RUBNAWAZ</p>
           <ul className="flex gap-7 max-[850px]:gap-3 max-[750px]:hidden">
-            <li className={`text-[14px] font-[500] cursor-pointer ${active === "home" ? "text-[#754ef9]" : "text-[#ffffff]"} hover:text-[#754ef9]`} onClick={() => handleClick("home", homeClick)}>
+            <li className={`text-[14px] font-[500] cursor-pointer ${active === "home" ? "text-[#ccffff]" : "text-[#ffffff]"} hover:text-[#ccffff]`} onClick={() => handleClick("home", homeClick)}>
               Home
             </li>
-            <li className={`text-[14px] font-[500] cursor-pointer ${active === "about" ? "text-[#754ef9]" : "text-[#ffffff]"} hover:text-[#754ef9]`} onClick={() => handleClick("about", aboutClick)}>
+            <li className={`text-[14px] font-[500] cursor-pointer ${active === "about" ? "text-[#ccffff]" : "text-[#ffffff]"} hover:text-[#ccffff]`} onClick={() => handleClick("about", aboutClick)}>
               About
             </li>
-            <li className={`text-[14px] font-[500] cursor-pointer ${active === "services" ? "text-[#754ef9]" : "text-[#ffffff]"} hover:text-[#754ef9]`} onClick={() => handleClick("services", servicesClick)}>
+            <li className={`text-[14px] font-[500] cursor-pointer ${active === "services" ? "text-[#ccffff]" : "text-[#ffffff]"} hover:text-[#ccffff]`} onClick={() => handleClick("services", servicesClick)}>
               Services
             </li>
-            <li className={`text-[14px] font-[500] cursor-pointer ${active === "experiences" ? "text-[#754ef9]" : "text-[#ffffff]"} hover:text-[#754ef9]`} onClick={() => handleClick("experiences", experiencesClick)}>
+            <li className={`text-[14px] font-[500] cursor-pointer ${active === "experiences" ? "text-[#ccffff]" : "text-[#ffffff]"} hover:text-[#ccffff]`} onClick={() => handleClick("experiences", experiencesClick)}>
               Experiences
             </li>
-            <li className={`text-[14px] font-[500] cursor-pointer ${active === "testimonial" ? "text-[#754ef9]" : "text-[#ffffff]"} hover:text-[#754ef9]`} onClick={() => handleClick("testimonial", testimonialClick)}>
+            <li className={`text-[14px] font-[500] cursor-pointer ${active === "testimonial" ? "text-[#ccffff]" : "text-[#ffffff]"} hover:text-[#ccffff]`} onClick={() => handleClick("testimonial", testimonialClick)}>
               Testimonial
             </li>
-            <li className={`text-[14px] font-[500] cursor-pointer ${active === "skills" ? "text-[#754ef9]" : "text-[#ffffff]"} hover:text-[#754ef9]`} onClick={() => handleClick("skills", skillsClick)}>
+            <li className={`text-[14px] font-[500] cursor-pointer ${active === "skills" ? "text-[#ccffff]" : "text-[#ffffff]"} hover:text-[#ccffff]`} onClick={() => handleClick("skills", skillsClick)}>
               Skills
             </li>
           </ul>

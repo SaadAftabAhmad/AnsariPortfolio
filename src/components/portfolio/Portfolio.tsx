@@ -1,9 +1,8 @@
 import React from "react";
 
-import portfolio from "../../png/portfolio.png";
-import haraz from "../../png/haraz.jpg";
-import apex from "../../png/apex.jpg";
 import chex from "../../png/chex.jpg";
+import apex from "../../png/apex.jpg";
+import haraz from "../../png/haraz.jpg";
 import dentistry99 from "../../png/dentistry99.jpg";
 import PortfolioCard from "@/components/card/PortfolioCard";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
