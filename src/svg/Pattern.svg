@@ -1,0 +1,105 @@
+<svg id="Circles" xmlns="http://www.w3.org/2000/svg" width="249" height="614" viewBox="0 0 249 614">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #595959;
+      }
+
+      .cls-1 {
+        stroke-width: 0.3px;
+        opacity: 0.77;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0-1L7,21"/>
+  <path class="cls-1" d="M30-2L8,21"/>
+  <path class="cls-1" d="M5,22l-9-3"/>
+  <path class="cls-1" d="M-1,59L62,3"/>
+  <path class="cls-1" d="M83,70L65,3"/>
+  <path class="cls-1" d="M80,72L-2,85"/>
+  <path class="cls-1" d="M81,73L-3,112"/>
+  <path class="cls-1" d="M82,74L34,169"/>
+  <path class="cls-1" d="M32,168L-3,112"/>
+  <path class="cls-1" d="M18,158L-3,168"/>
+  <path class="cls-1" d="M30,171l-33,2"/>
+  <path class="cls-1" d="M31,172L-3,200"/>
+  <path class="cls-1" d="M21,159L59,271"/>
+  <path class="cls-1" d="M22,158l88,77"/>
+  <path class="cls-1" d="M57,273L-5,218"/>
+  <path class="cls-1" d="M-3,265l60,9"/>
+  <path class="cls-1" d="M110,238L60,273"/>
+  <path class="cls-1" d="M57,275L28,295"/>
+  <path class="cls-1" d="M23,295L-1,284"/>
+  <path class="cls-1" d="M25,298L-4,343"/>
+  <path class="cls-1" d="M27,298l26,61"/>
+  <path class="cls-1" d="M59,277l-5,81"/>
+  <path class="cls-1" d="M52,361l-55-5"/>
+  <path class="cls-1" d="M61,276l30,34"/>
+  <path class="cls-1" d="M111,239L94,310"/>
+  <path class="cls-1" d="M113,239l35,57"/>
+  <path class="cls-1" d="M147,299L96,311"/>
+  <path class="cls-1" d="M148,300l-37,81"/>
+  <path class="cls-1" d="M94,314l15,68"/>
+  <path class="cls-1" d="M92,313L55,359"/>
+  <path class="cls-1" d="M55,363l11,52"/>
+  <path class="cls-1" d="M52,377l92,2"/>
+  <path class="cls-1" d="M56,362l51,22"/>
+  <path class="cls-1" d="M64,416L-2,362"/>
+  <path class="cls-1" d="M48,379L34,428"/>
+  <path class="cls-1" d="M51,379l40,33"/>
+  <path class="cls-1" d="M108,386L68,416"/>
+  <path class="cls-1" d="M145,381L95,412"/>
+  <path class="cls-1" d="M90,415L36,429"/>
+  <path class="cls-1" d="M147,382l8,63"/>
+  <path class="cls-1" d="M95,415l57,31"/>
+  <path class="cls-1" d="M245,426l-96-46"/>
+  <path class="cls-1" d="M245,428l-88,18"/>
+  <path class="cls-1" d="M154,450l-12,33"/>
+  <path class="cls-1" d="M94,417l46,67"/>
+  <path class="cls-1" d="M92,416v58"/>
+  <path class="cls-1" d="M36,431l54,44"/>
+  <path class="cls-1" d="M34,432l21,87"/>
+  <path class="cls-1" d="M92,479l30,65"/>
+  <path class="cls-1" d="M93,476l46,9"/>
+  <path class="cls-1" d="M90,478L57,520"/>
+  <path class="cls-1" d="M58,522l61,25"/>
+  <path class="cls-1" d="M141,487l-18,58"/>
+  <path class="cls-1" d="M245,429L143,485"/>
+  <path class="cls-1" d="M250,492l-106-5"/>
+  <path class="cls-1" d="M245,553l6-13"/>
+  <path class="cls-1" d="M242,553l-99-66"/>
+  <path class="cls-1" d="M124,548l117,7"/>
+  <circle class="cls-2" cx="83" cy="72" r="2.094"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="7" cy="23" r="2.094"/>
+  <path id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-3" d="M64-.1A2.1,2.1,0,1,1,61.9,2,2.1,2.1,0,0,1,64-.1Z"/>
+  <circle id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" class="cls-2" cx="20" cy="157" r="2.094"/>
+  <circle id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" class="cls-2" cx="33" cy="171" r="2.094"/>
+  <circle id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" class="cls-2" cx="112" cy="237" r="2.094"/>
+  <circle id="Ellipse_1_copy_6" data-name="Ellipse 1 copy 6" class="cls-2" cx="59" cy="274" r="2.094"/>
+  <circle id="Ellipse_1_copy_7" data-name="Ellipse 1 copy 7" class="cls-2" cx="26" cy="296" r="2.094"/>
+  <circle id="Ellipse_1_copy_8" data-name="Ellipse 1 copy 8" class="cls-2" cx="149" cy="298" r="2.094"/>
+  <circle id="Ellipse_1_copy_9" data-name="Ellipse 1 copy 9" class="cls-2" cx="94" cy="312" r="2.094"/>
+  <circle id="Ellipse_1_copy_10" data-name="Ellipse 1 copy 10" class="cls-2" cx="54" cy="361" r="2.094"/>
+  <circle id="Ellipse_1_copy_11" data-name="Ellipse 1 copy 11" class="cls-2" cx="49" cy="377" r="2.094"/>
+  <circle id="Ellipse_1_copy_12" data-name="Ellipse 1 copy 12" class="cls-2" cx="147" cy="379" r="2.094"/>
+  <circle id="Ellipse_1_copy_13" data-name="Ellipse 1 copy 13" class="cls-2" cx="110" cy="384" r="2.094"/>
+  <circle id="Ellipse_1_copy_14" data-name="Ellipse 1 copy 14" class="cls-2" cx="93" cy="414" r="2.094"/>
+  <circle id="Ellipse_1_copy_15" data-name="Ellipse 1 copy 15" class="cls-2" cx="66" cy="417" r="2.094"/>
+  <circle id="Ellipse_1_copy_16" data-name="Ellipse 1 copy 16" class="cls-2" cx="34" cy="430" r="2.094"/>
+  <circle id="Ellipse_1_copy_17" data-name="Ellipse 1 copy 17" class="cls-2" cx="247" cy="427" r="2.094"/>
+  <circle id="Ellipse_1_copy_18" data-name="Ellipse 1 copy 18" class="cls-2" cx="155" cy="447" r="2.094"/>
+  <circle id="Ellipse_1_copy_19" data-name="Ellipse 1 copy 19" class="cls-2" cx="91" cy="477" r="2.094"/>
+  <circle id="Ellipse_1_copy_20" data-name="Ellipse 1 copy 20" class="cls-2" cx="142" cy="486" r="2.094"/>
+  <circle id="Ellipse_1_copy_21" data-name="Ellipse 1 copy 21" class="cls-2" cx="56" cy="521" r="2.094"/>
+  <circle id="Ellipse_1_copy_22" data-name="Ellipse 1 copy 22" class="cls-2" cx="122" cy="547" r="2.094"/>
+  <circle id="Ellipse_1_copy_23" data-name="Ellipse 1 copy 23" class="cls-2" cx="244" cy="555" r="2.094"/>
+</svg>
