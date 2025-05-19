@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const Sidebar = ({ isOpen, onClose, homeClick, aboutClick, servicesClick, experiencesClick, testimonialClick, blogClick, contactClick, skillsClick }: any) => {
+const Sidebar = ({ isOpen, onClose, homeClick, aboutClick, servicesClick, experiencesClick, testimonialClick, skillsClick }: any) => {
 
   const [active, setActive] = useState("home");
 
